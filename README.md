@@ -1,2 +1,2 @@
-# berkah-komputer
-web toko berkah komputer
+# logos-komputer
+web toko logos komputer
